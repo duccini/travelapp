@@ -1,6 +1,8 @@
 /* eslint-disable react-native/no-inline-styles */
 import React, {useEffect, useState} from 'react';
 import {FlatList, SafeAreaView, Text, View} from 'react-native';
+import {useNavigation} from '@react-navigation/native';
+
 import Title from '../../components/Title';
 
 import styles from './styles';
@@ -14,6 +16,8 @@ import categoriesData from '../../../data/categories.json';
 const Home = () => {
   const [selectedCategory, setselectedCategory] = useState('All');
   const [attractions, setAttractions] = useState([]);
+
+  const navigation = useNavigation();
 
   useEffect(() => {
     setAttractions(attractionsData);
@@ -58,6 +62,9 @@ const Home = () => {
         keyExtractor={item => item.id}
         renderItem={({item, index}) => (
           <AttractionCard
+            handleOnPress={() =>
+              navigation.navigate('AttractionDetails', {item})
+            }
             style={
               index % 2 === 0
                 ? {marginLeft: 32, marginRight: 12}

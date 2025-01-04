@@ -11,12 +11,12 @@
     "categories": ["Most Visited", "Historical"],
     "images": [
       "https://www.arttrav.com/wp-content/uploads/2021/06/colosseum-alexandrakorey.jpg",
-      "https://www.history.com/.image/t_share/MTkwODIxMzcwNDI5NDQ5OTEw/gettyimages-1081719544.jpg",
+      "https://media.istockphoto.com/id/539115110/photo/colosseum-in-rome-and-morning-sun-italy.jpg?s=612x612&w=0&k=20&c=9NtFxHI3P2IBWRY9t0NrfPZPR4iusHmVLbXg2Cjv9Fs=",
       "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
       "https://static01.nyt.com/images/2022/06/12/world/12italy-colosseum-01/merlin_206622975_bf44e9c5-b817-405f-b46a-33f6fe5f88a8-superJumbo.jpg",
       "http://cdn.cnn.com/cnnnext/dam/assets/200925160752-colosseum-file-restricted.jpg",
       "https://www.travelandleisure.com/thmb/t74QyXS4Oi2C0Lg-_waWgOKTstI=/1600x1000/filters:fill(auto,1)/colosseum-rome-night-stars-ARENA0217-b7ebd36d82b0427caaac90674ba17028.jpg",
-      "https://www.onthegotours.com/blog/wp-content/uploads/2019/05/Colosseum-in-the-morning-Rome-Italy.jpg",
+      "https://static.vecteezy.com/system/resources/previews/028/532/570/large_2x/coliseum-at-night-rome-italy-generative-ai-free-photo.jpeg",
       "https://hips.hearstapps.com/hmg-prod/images/tod-s-for-colosseum-hypogea-1-1624912790.jpg"
     ],
     "coordinates": {
@@ -76,8 +76,8 @@
     "closing_time": "07:00 PM",
     "categories": ["Popular"],
     "images": [
-      "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
       "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
+      "https://s2-casavogue.glbimg.com/NhV5Y5k9JL4GTnlwZC08D8bNAhw=/0x0:910x910/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_d72fd4bf0af74c0c89d27a5a226dbbf8/internal_photos/bs/2023/J/D/Fykh3SRjaB8sWPmNt52w/365907635-738626498273430-7067090281464850009-n.jpg",
       "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
     ],
     "coordinates": {
@@ -87,88 +87,87 @@
   },
   {
     "id": 5,
-    "name": "Colosseum",
-    "city": "Rome",
-    "country": "Italy",
+    "name": "Igreja Ouro Preto",
+    "city": "Ouro Preto",
+    "country": "Brazil",
     "entry_price": "$20",
-    "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+    "address": "Praça da Idenpendência",
     "opening_time": "9:00 AM",
     "closing_time": "7:00 PM",
     "categories": ["Most Visited", "Historical"],
     "images": [
-      "https://www.arttrav.com/wp-content/uploads/2021/06/colosseum-alexandrakorey.jpg",
-      "https://www.history.com/.image/t_share/MTkwODIxMzcwNDI5NDQ5OTEw/gettyimages-1081719544.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+      "https://t4.ftcdn.net/jpg/03/27/01/55/360_F_327015592_6Hi63NFJmBq1RYUSAQg8Sm2VwJRkzYdv.jpg",
+      "https://f.i.uol.com.br/fotografia/2021/11/23/1637704156619d61dca8a7b_1637704156_3x2_md.jpg",
+      "https://media.istockphoto.com/id/469025398/pt/foto/ouro-preto-brasil.jpg?s=612x612&w=0&k=20&c=Di5zveVKiDWG9t8wz0-Wya7v-7N5OyEGALuLXYUfN4w=",
       "https://static01.nyt.com/images/2022/06/12/world/12italy-colosseum-01/merlin_206622975_bf44e9c5-b817-405f-b46a-33f6fe5f88a8-superJumbo.jpg",
-      "http://cdn.cnn.com/cnnnext/dam/assets/200925160752-colosseum-file-restricted.jpg",
-      "https://www.travelandleisure.com/thmb/t74QyXS4Oi2C0Lg-_waWgOKTstI=/1600x1000/filters:fill(auto,1)/colosseum-rome-night-stars-ARENA0217-b7ebd36d82b0427caaac90674ba17028.jpg",
-      "https://www.onthegotours.com/blog/wp-content/uploads/2019/05/Colosseum-in-the-morning-Rome-Italy.jpg",
-      "https://hips.hearstapps.com/hmg-prod/images/tod-s-for-colosseum-hypogea-1-1624912790.jpg"
+      "https://media.istockphoto.com/id/1436115891/pt/foto/bucolic-street-with-old-colonial-style-houses-and-cobblestones-in-ouro-preto.jpg?s=612x612&w=0&k=20&c=Z-0-ijg9vpVWIu1mNfRZywaDrQ_fu8VEhl7phleLDBk=",
+      "https://www.designi.com.br/images/preview/10264486.jpg",
+      "https://imgmd.net/images/v1/guia/1688470/museu-de-ciencia-e-tecnica-da-escola-de-minas-ufop.jpg"
     ],
     "coordinates": {
-      "lat": 41.8902,
-      "lon": 12.4922
+      "lat": -20.3856,
+      "lon": -43.5035
     }
   },
   {
     "id": 6,
-    "name": "Taj Mahal",
-    "city": "Agra",
-    "country": "India",
-    "entry_price": "$14",
-    "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+    "name": "Lençoes Maranhenses",
+    "city": "Maceió",
+    "country": "Brazil",
+    "entry_price": "$50",
+    "address": "Estrada Bairro Velho",
     "opening_time": "7:00 AM",
     "closing_time": "5:00 PM",
-    "categories": ["Most Visited", "Historical"],
+    "categories": ["Most Visited", "Recommended", "Popular"],
     "images": [
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6e/b1/6a/caption.jpg?w=1200&h=-1&s=1",
-      "https://www.forbesindia.com/media/images/2022/May/img_184243_tajmahalindia.jpg",
-      "https://www.tajmahal.gov.in/images/tajmahal-view/day/1.jpg"
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCqfk_igD9fRhbwoEo-U2w_Jng2PekKqRqwHhlcxR3CRTgXSao0ScKwULrWKhXPBki1jmETL7dC3URBtaEnuHvexYCYgdGsVtkg7nCCjNI6-LHmAqSp6_77mbce5AzePsR0t_WrzvpYdE8mE44yj_Nhrntw_5fyagVIU_8FczR3qOd8yKZ5rO8uHoZMw/s16000/20220611_121257.jpg",
+      "https://www.trilhaseaventuras.com.br/wp-content/uploads/2021/12/lagoa-azul-lencois-maranhenses.jpg",
+      "https://images01.brasildefato.com.br/9e3047d943f25f3a988242dcdadbaf39.jpeg"
     ],
     "coordinates": {
-      "lat": 27.1751,
-      "lon": 78.0421
+      "lat": -2.533333,
+      "lon": -43.116669
     }
   },
   {
     "id": 7,
-    "name": "Eiffel Tower",
-    "city": "Paris",
-    "country": "France",
-    "entry_price": "$25",
-    "address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+    "name": "Parque Bonito",
+    "city": "Sorriso",
+    "country": "Brazil",
+    "entry_price": "$500",
+    "address": "Parque Nacional de Sorriso",
     "opening_time": "9:30 AM",
     "closing_time": "10:45 PM",
     "categories": ["Most Visited", "Recommended"],
     "images": [
-      "https://www.planetware.com/photos-large/F/eiffel-tower.jpg",
-      "https://www.thetrainline.com/cms/media/1360/france-eiffel-tower-paris.jpg?mode=crop&width=1080&height=1080&quality=70",
-      "https://www.grunge.com/img/gallery/the-bizarre-history-of-the-eiffel-tower/l-intro-1602781703.jpg",
-      "https://th-thumbnailer.cdn-si-edu.com/Q-oOOYwzuhWGLlUa0NvS4jbMGoI=/fit-in/1600x0/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/04/0f/040fc6b3-2c00-4592-9993-8c0c485fcf99/gettyimages-142198198.jpg"
+      "https://i0.wp.com/blog.bonitour.com.br/wp-content/uploads/2021/11/Destaque-1-Curiosidades-de-Bonito-1127x600-1.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuliUko5G8_XQHTM3rbRi6AsXYkGzOxQYagZigMwn7YmXXxNeevwj0Lnb1WBedqisq8tc",
+      "https://i0.wp.com/blog.bonitour.com.br/wp-content/uploads/2021/11/Destaque-1-Curiosidades-de-Bonito-1127x600-1.jpg",
+      "https://www.maladeaventuras.com/wp-content/uploads/2021/05/roteiro-5-dias-bonito-ms.jpg"
     ],
     "coordinates": {
-      "lat": 48.8584,
-      "lon": 2.2945
+      "lat": -21.1313,
+      "lon": -56.4801
     }
   },
   {
     "id": 8,
-    "name": "Leaning Tower of Pisa",
-    "city": "Pisa",
-    "country": "Italy",
-    "entry_price": "$20",
-    "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+    "name": "Resort Campos do Jordão",
+    "city": "Campos do Jordão",
+    "country": "Brazil",
+    "entry_price": "$2000",
+    "address": "Av. Principal",
     "opening_time": "9:00 AM",
     "closing_time": "07:00 PM",
-    "categories": ["Popular"],
+    "categories": ["Recommended"],
     "images": [
-      "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
-      "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
-      "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
+      "https://istoedinheiro.com.br/wp-content/uploads/sites/17/2024/08/hotelcamposjodao3.jpg?x46096",
+      "https://s2-g1.glbimg.com/5qaYZDqe8onlmH3IxN-MhpL5ACY=/0x0:800x533/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2016/07/12/renan_william_centro_do_capivari_em_campos_do_jordao.jpg",
+      "https://guiaviajarmelhor.com.br/wp-content/uploads/2023/08/guiacampos-do-jordao-turismo5.jpeg"
     ],
     "coordinates": {
-      "lat": 43.723,
-      "lon": 10.3966
+      "lat": -22.7386,
+      "lon": -45.5921
     }
   }
 ]

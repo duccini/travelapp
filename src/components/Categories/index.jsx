@@ -13,7 +13,6 @@ import styles from './styles';
 // OBS: View is not Pressable, Text IS !!!
 
 const Categories = ({categories, selectedCategory, onCategoryPress}) => {
-  console.log('categorias: ', categories);
   return (
     <FlatList
       horizontal
