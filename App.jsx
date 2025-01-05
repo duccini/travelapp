@@ -7,6 +7,7 @@ import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import Home from './src/screens/Home';
 import AttractionDetails from './src/screens/AttractionDetails';
 import Gallery from './src/screens/Gallery';
+import FullMapView from './src/screens/FullMapView';
 
 /**
  * SafeAreaView start the View from the Safe part - iOS +10 & other devices
@@ -33,6 +34,7 @@ function App() {
         <Stack.Screen component={Home} name="Home" />
         <Stack.Screen component={AttractionDetails} name="AttractionDetails" />
         <Stack.Screen component={Gallery} name="Gallery" />
+        <Stack.Screen component={FullMapView} name="FullMapView" />
       </Stack.Navigator>
     </NavigationContainer>
   );
