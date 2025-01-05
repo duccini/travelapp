@@ -12,6 +12,10 @@ import {
 
 import MapView, {Marker} from 'react-native-maps';
 
+import Share from 'react-native-share';
+
+import ImgToBase64 from 'react-native-image-base64';
+
 import styles from './styles';
 
 import Title from '../../components/Title';
@@ -52,6 +56,32 @@ const AttractionDetails = ({navigation, route}) => {
     navigation.navigate('FullMapView', {item});
   };
 
+  const onShare = async () => {
+    try {
+      const imageWithouParams = mainImage.split('?')[0];
+      const imageParts = imageWithouParams.split('.');
+      const imageExtension = imageParts[imageParts.length - 1];
+
+      // console.log(imageExtension);
+
+      const imageBase64 = await ImgToBase64.getBase64String(mainImage);
+
+      Share.open({
+        title: item.name,
+        message: 'Hi, I wanted to share with you this amazing attraction',
+        url: `data:image/${imageExtension || 'jpg'};base64,${imageBase64}`,
+      })
+        .then(res => {
+          console.log(res);
+        })
+        .catch(err => {
+          err && console.log(err);
+        });
+    } catch (error) {
+      console.log('errors: ', error);
+    }
+  };
+
   return (
     <SafeAreaView style={styles.container}>
       <ScrollView showsVerticalScrollIndicator={false}>
@@ -66,7 +96,7 @@ const AttractionDetails = ({navigation, route}) => {
                 source={require('../../assets/back.png')}
               />
             </Pressable>
-            <Pressable hitSlop={8}>
+            <Pressable onPress={onShare} hitSlop={8}>
               <Image
                 style={styles.icon}
                 source={require('../../assets/share.png')}
